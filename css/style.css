@@ -62,7 +62,11 @@ div {
 }
 
 .blue h2 {
-  color: #FFFFFF;
+  color: #C4C4C4;
+}
+
+.blue p {
+  color: #C4C4C4;
 }
 
 .yellow {
@@ -95,7 +99,7 @@ footer {
   border: 5px solid white;
 }
 
-footer p{
+footer > p{
   text-align: right;
   font: 20px;
   padding-top: 15px;
